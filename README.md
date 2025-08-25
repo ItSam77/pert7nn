@@ -9,7 +9,7 @@ This dataset contains flower images with 2 classes: **daisy** and **dandelion**.
 
 1. **Clone the repository:**
    ```bash
-   git clone <repository-url>
+   git clone https://github.com/ItSam77/pert7nn.git
    cd PERT7-2
    ```
 
