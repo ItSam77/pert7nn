@@ -25,6 +25,8 @@ This dataset contains flower images with 2 classes: **daisy** and **dandelion**.
    %pip install -r requirements.txt
    ```
 
+   > **Warning:** If you are using Jupyter Notebook, you need to install the requirements in the notebook itself. It might cause errors during installation due to dependency issues. Consider using a virtual environment or conda kernel.
+
 3. **Run the notebook:**
    Create a new code block with the installation command above and execute it, then you can run the main notebook.
 
